@@ -33,7 +33,6 @@ URL: 		http://ede.sourceforge.net
 License: 	LGPL
 Group: 		System/Libraries
 
-BuildRoot: 	%{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires: 	gettext
 Provides:	efltk
 
