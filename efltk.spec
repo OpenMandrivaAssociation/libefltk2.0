@@ -33,7 +33,7 @@ URL: 		http://ede.sourceforge.net
 License: 	LGPL
 Group: 		System/Libraries
 
-BuildRequires: 	gettext
+BuildRequires: 	gettext X11-devel xft2-devel
 Provides:	efltk
 
 %description
