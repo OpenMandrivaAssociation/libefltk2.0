@@ -7,7 +7,7 @@
 %if %cvsversion
 %define release %mkrel 0.%{cvsver}.1
 %elseif
-%define release %mkrel 1
+%define release %mkrel 2
 %endif
 
 %define pakdir %{filename}-%{version}
