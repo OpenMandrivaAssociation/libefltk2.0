@@ -5,7 +5,7 @@
 %define version 2.0.6
 
 %if %cvsversion
-%define release %mkrel 0.%{cvsver}.1
+%define release %mkrel 0.%{cvsver}.2
 %elseif
 %define release %mkrel 3
 %endif
