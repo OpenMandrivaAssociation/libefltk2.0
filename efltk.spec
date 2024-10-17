@@ -29,7 +29,7 @@ Source: 	%{filename}-%{version}.tar.bz2
 %endif
 
 Summary:	A stable, small and fast cross-platform GUI ToolKit
-URL: 		http://ede.sourceforge.net
+URL: 		https://ede.sourceforge.net
 License: 	LGPL
 Group: 		System/Libraries
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
