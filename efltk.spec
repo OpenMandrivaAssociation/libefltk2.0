@@ -34,6 +34,11 @@ License: 	LGPL
 Group: 		System/Libraries
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: 	gettext X11-devel xft2-devel
 Provides:	efltk
 
